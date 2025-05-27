@@ -1,3 +1,5 @@
+![Header](https://github.com/yourusername/yourusername/blob/main/header-image.jpg?raw=true)
+
 # 💫 About Me:
  I’m currently working on: <br><br> A portfolio project with React.js + TypeScript.<br>Open-source contributions using React and Tailwind.<br><br> I’m currently learning:<br><br>Advanced React patterns (e.g., state machines, compound components).<br>Next.js for server-side rendering and static site generation.<br><br>Ask me about:<br><br>React hooks, component architecture, or state management (Redux/Context API).<br>Tailwind CSS workflows and utility-first design.<br>TypeScript tips for scalable frontend code.<br>JavaScript performance optimization.<br><br>Fun fact:<br><br>Coffee enthusiast ☕ + keyboard shortcut ninja.
 
