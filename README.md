@@ -1,7 +1,12 @@
 <img src="bg-img.jfif" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
- I’m currently working on: <br><br> A portfolio project with React.js + TypeScript.<br>Open-source contributions using React and Tailwind.<br><br> I’m currently learning:<br><br>Advanced React patterns (e.g., state machines, compound components).<br>Next.js for server-side rendering and static site generation.<br><br>Ask me about:<br><br>React hooks, component architecture, or state management (Redux/Context API).<br>Tailwind CSS workflows and utility-first design.<br>TypeScript tips for scalable frontend code.<br>JavaScript performance optimization.<br><br>Fun fact:<br><br>Coffee enthusiast ☕ + keyboard shortcut ninja.
+Hello! I'm <bold> Adejumo Adedayo </bold>, a passionate <bold> Full Stack Developer </bold> with expertise in building robust and scalable web applications. I specialize in technologies such as <i> React, Node.js, Express.js, Django, JavaScript, TypeScript, and Tailwind CSS,</i> among others.
+
+With a strong focus on delivering high-quality solutions, I’ve worked on a diverse range of projects, including personal initiatives, client work, and internships. My goal is to create seamless, user-friendly experiences while continuously exploring new tools and technologies to enhance my craft.
+
+Let’s connect to bring your ideas to life! 🚀
+
 
 
 ## 🌐 Socials:
