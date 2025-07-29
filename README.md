@@ -1,7 +1,7 @@
 <img src="bg-img.jfif" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
-Hello! I'm <bold> Adejumo Adedayo </bold>, a passionate <bold> Full Stack Developer </bold> with expertise in building robust and scalable web applications. I specialize in technologies such as <i> React, Node.js, Express.js, Django, JavaScript, TypeScript, and Tailwind CSS,</i> among others.
+Hello! I'm <b> Adejumo Adedayo </b>, a passionate <b> Full Stack Developer </b> with expertise in building robust and scalable web applications. I specialize in technologies such as <i> React, Node.js, Express.js, Django, JavaScript, TypeScript, and Tailwind CSS,</i> among others.
 
 With a strong focus on delivering high-quality solutions, I’ve worked on a diverse range of projects, including personal initiatives, client work, and internships. My goal is to create seamless, user-friendly experiences while continuously exploring new tools and technologies to enhance my craft.
 
