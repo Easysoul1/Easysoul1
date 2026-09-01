@@ -1,4 +1,4 @@
-<img src="bg-img.jfif" alt="GitHub Banner" width="100%" />
+<img src="linkedin-banner.png" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
 Hello! I'm <b> Adejumo Adedayo </b>, a passionate <b> Full Stack Developer </b> with expertise in building robust and scalable web applications. I specialize in technologies such as <b> React, Node.js, Express.js, Django, JavaScript, TypeScript, and Tailwind CSS,</b> among others.
